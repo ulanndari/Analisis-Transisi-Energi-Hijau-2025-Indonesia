@@ -1,4 +1,4 @@
-# 🔋🌿 Analisis Transisi Energi Hijau 2025 di Indonesia
+# 🔋 Analisis Transisi Energi Hijau 2025 di Indonesia
 
 Selamat datang di repositori proyek **Eco Techno Leader**, sebuah inisiatif strategis untuk membekali generasi muda dengan kemampuan analisis data dalam mendukung transisi energi bersih di Indonesia. Proyek ini menggunakan Python dan data terbuka untuk mengurai persoalan utama di balik agenda energi hijau 2025: **pajak karbon**, **greenwashing**, dan **konflik lahan**.
 
