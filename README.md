@@ -65,7 +65,7 @@ Proyek ini mengajarkan cara memakai **Python** untuk:
 
 ---
 
-## 🔍 Hasil Analisis
+## 🔍  Gambaran Hasil Analisis serta Contoh Perusahaan
 
 ### 🔢 Pajak Karbon
 - 18 perusahaan teridentifikasi wajib bayar pajak
